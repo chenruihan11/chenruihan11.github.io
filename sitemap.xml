@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://chenruihan11.github.io/about/index.html</loc>
+    <loc>http://chenruihan11.github.io/undefined/Hello-World/</loc>
     
-    <lastmod>2023-06-06</lastmod>
+    <lastmod>2023-06-13</lastmod>
     
   </url>
   
   <url>
-    <loc>http://chenruihan11.github.io/undefined/crh/</loc>
+    <loc>http://chenruihan11.github.io/about/index.html</loc>
     
-    <lastmod>2023-05-31</lastmod>
+    <lastmod>2023-06-06</lastmod>
     
   </url>
   
@@ -37,20 +37,6 @@
   </url>
   
   <url>
-    <loc>http://chenruihan11.github.io/cn/Hexo-Theme-LiveMyLife/</loc>
-    
-    <lastmod>2020-04-16</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://chenruihan11.github.io/en/Hexo-Theme-LiveMyLife/</loc>
-    
-    <lastmod>2020-04-16</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://chenruihan11.github.io/archive/index.html</loc>
     
     <lastmod>2017-03-20</lastmod>
@@ -60,26 +46,12 @@
 
   <url>
     <loc>http://chenruihan11.github.io/</loc>
-    <lastmod>2023-06-10</lastmod>
+    <lastmod>2023-06-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
-  <url>
-    <loc>http://chenruihan11.github.io/tags/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2023-06-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>http://chenruihan11.github.io/categories/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2023-06-10</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
 </urlset>
