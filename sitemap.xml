@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://chenruihan11.github.io/undefined/Hello-World/</loc>
-    
-    <lastmod>2023-06-13</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://chenruihan11.github.io/about/index.html</loc>
     
     <lastmod>2023-06-06</lastmod>
@@ -33,6 +26,13 @@
     <loc>http://chenruihan11.github.io/404.html</loc>
     
     <lastmod>2023-05-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://chenruihan11.github.io/undefined/Hello-World/</loc>
+    
+    <lastmod>2023-04-01</lastmod>
     
   </url>
   
